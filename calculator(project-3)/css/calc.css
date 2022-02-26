@@ -1,0 +1,26 @@
+#container{
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin: auto;
+    height: 50vh;
+    width: 20vw;
+    background-color: burlywood;
+    margin-top: 5rem;
+}
+#screen{
+    height: 20vh;
+    width: 20vw;
+    background-color:black;
+    color: white;
+    font-size: 2rem;
+}
+.button{
+    margin-top: 1.5rem;
+}
+.btn{
+    padding: 0.4rem;
+}
+#screen{
+    text-align: end;
+}
